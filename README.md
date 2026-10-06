@@ -2,6 +2,8 @@
 
 > An adaptive, real-time surgical navigation platform that assists dental surgeons during intraoperative procedures by providing live visual guidance, navigation markers, anatomical overlays, and intelligent safety alerts to improve surgical precision, reduce operative time, and minimize surgical complications.
 
+**Deployed Link -  ** [https://4b958b1a.dental-surgical-navigation.pages.dev/](https://4b958b1a.dental-surgical-navigation.pages.dev/)  
+
 ---
 
 # Project Overview
